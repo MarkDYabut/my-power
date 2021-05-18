@@ -26,7 +26,7 @@ collections:
       - {
           label: "Featured Image Alt",
           name: "featuredImageAlt",
-          widget: string,
+          widget: "string",
         }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Author", name: "author", widget: "string" }
